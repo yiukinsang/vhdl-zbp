@@ -1,4 +1,4 @@
-name: deploy seojunah
+name: deploy AlegrioNo
 
 on:
   push:
