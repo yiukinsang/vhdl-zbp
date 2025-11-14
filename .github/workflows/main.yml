@@ -1,4 +1,4 @@
-name: deploy PHCblindas
+name: deploy jESJEnovib
 
 on:
   push:
