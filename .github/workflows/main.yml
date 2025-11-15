@@ -1,4 +1,4 @@
-name: deploy jESJEnovib
+name: deploy overPricEE
 
 on:
   push:
