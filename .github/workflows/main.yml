@@ -1,4 +1,4 @@
-name: deploy sunfireCastle
+name: deploy StateVstatesun
 
 on:
   push:
