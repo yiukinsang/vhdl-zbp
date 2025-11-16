@@ -1,4 +1,4 @@
-name: deploy StateVstatesun
+name: deploy BlidsMooon
 
 on:
   push:
