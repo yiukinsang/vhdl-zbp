@@ -1,4 +1,4 @@
-name: deploy GeneralShherman
+name: deploy JoruSiotna
 
 on:
   push:
