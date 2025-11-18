@@ -1,4 +1,4 @@
-name: deploy AlexKovensky
+name: deploy UchihaDanzo
 
 on:
   push:
