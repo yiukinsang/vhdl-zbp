@@ -1,4 +1,4 @@
-name: deploy UchihaDanzo
+name: deploy SirUzumaki
 
 on:
   push:
