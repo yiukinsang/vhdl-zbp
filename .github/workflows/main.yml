@@ -1,4 +1,4 @@
-name: deploy Narusakuni
+name: deploy RAVshinuya
 
 on:
   push:
